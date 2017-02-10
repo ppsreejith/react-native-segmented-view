@@ -1,1 +1,2 @@
-module.exports = require('./lib/SegmentedView');
+import SegmentedView from './lib/SegmentedView';
+export SegmentedView;
